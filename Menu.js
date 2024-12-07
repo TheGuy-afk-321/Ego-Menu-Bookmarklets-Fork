@@ -77,7 +77,7 @@ javascript: (function() {
           background-color: #FFFFFF;
           box-shadow: inset 1mm -1mm 0 #00000096, -0.2mm 0.2mm 0 0.3mm #000000;
           border: none;
-          color: white;
+          color: black;
           padding: 1.5mm 1mm;
           cursor: pointer;
           border-radius: 1.1vmin;
