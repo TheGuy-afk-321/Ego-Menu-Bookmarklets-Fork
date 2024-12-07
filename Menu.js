@@ -1,5 +1,6 @@
 javascript: (function() {
     const errorPrefixes = [
+      'Uh oh...',  
       'Uh oh, something goofed up... ',
       'Oops, we have a problem... ',
       'Warning, malfunction ahead... ',
