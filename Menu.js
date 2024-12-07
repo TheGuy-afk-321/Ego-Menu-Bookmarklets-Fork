@@ -73,7 +73,7 @@ javascript: (function() {
             transform: rotate3d(1, 1, 1, 360deg);
         }
         .EgoMenuButton {
-          background-color: #5b9258;
+          background-color: #FFFFFF;
           box-shadow: inset 1mm -1mm 0 #00000096, -0.2mm 0.2mm 0 0.3mm #000000;
           border: none;
           color: white;
@@ -97,7 +97,7 @@ javascript: (function() {
     .EgoMenuButton:hover {
       box-shadow: inset 1mm -1mm 0 #0000001f, -1mm 1mm 0 0.3mm #000000, -1mm 2mm 1mm 0mm #0000006b;
       transform: translate(1mm, -1mm);
-      background-color: #75b472;
+      background-color: #FFFFFF;
   }
         .EgoMenuContainer.active + .EgoMenuHoverArea {
             width: 15vmax;
